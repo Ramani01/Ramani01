@@ -1,7 +1,7 @@
 # 💫 About Me:
  About Me 
  
- 🔍 Cybersecurity Researcher | Ethical Hacker | Tech Enthusiast  
+ 🔍 Cybersecurity Researcher | Ethical Hacker | Tech Enthusiast | AI | HARDWARE
  
  I’m passionate about diving deep into the world of cybersecurity, uncovering vulnerabilities, and developing innovative solutions to protect digital systems. With a strong background in network security, penetration testing, malware analysis, and threat hunting, I aim to contribute to the cybersecurity community by collaborating on open-source projects and research initiatives. 
  
