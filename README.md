@@ -1,5 +1,5 @@
 💫 About Me:
-👩‍💻 Software Engineer | 🚀 Problem Solver | 💡 Tech Enthusiast
+👩‍💻 Software Engineer | 🚀 Problem Solver | 💡 AI  Tech Enthusiast
 
 I’m a dedicated Software Engineer who loves building efficient, scalable, and user-focused applications.
 I enjoy turning complex problems into simple, elegant solutions through clean and maintainable code.
