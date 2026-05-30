@@ -22,16 +22,29 @@ Innovative Web Applications 💡
 🔗 Skills & Technologies:
 
 Languages:
-Python | Java | C++ | JavaScript | TypeScript
+Python | Java | JavaScript | TypeScript
 
 Frontend:
-React | HTML | CSS | Bootstrap
+React | HTML | CSS 
 
 Backend:
-Node.js | Django | Spring Boot
+Node.js | Spring Boot
 
 Databases:
 MySQL | MongoDB
 
 Tools & Platforms:
 Git | Docker | Kubernetes | AWS | Firebase
+
+AI Tools
+Antigravity | Cursor | HermesAgent | OpenClaw
+
+Ai Frameworks 
+smoagents | LangChain | Langraph | Crew Ai 
+
+Prompting 
+chain of thought | Few Shot | LLMops
+
+
+
+
