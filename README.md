@@ -1,50 +1,118 @@
-💫 About Me:
-👩‍💻 Software Engineer | 🚀 Problem Solver | 💡 AI  Tech Enthusiast
+# 👋 Hi, I'm Ramani
 
-I’m a dedicated Software Engineer who loves building efficient, scalable, and user-focused applications.
-I enjoy turning complex problems into simple, elegant solutions through clean and maintainable code.
+## 🤖 AI Engineer | 🧠 Agent Orchestration Engineer | 🚀 Forward Deployed Engineer (FDE)
 
-With a strong foundation in data structures, system design, and full-stack development, I continuously strive to improve and stay updated with modern technologies.
+I build production-grade AI systems that go beyond APIs — focusing on **agent orchestration, LLM workflows, and real-world deployment of AI solutions**.
 
-🚀 What I Do:
-💻 Software Development – Building robust and scalable applications
-🌐 Full-Stack Development – Creating end-to-end web solutions
-⚙️ System Design – Designing high-performance architectures
-🧠 Problem Solving – Data Structures & Algorithms
-🔄 Automation – Streamlining workflows with scripts
-🌐 Collaboration:
+My work sits at the intersection of:
+- AI Agents & Orchestration Systems
+- LLM Application Engineering
+- Forward Deployed Engineering (customer-facing AI delivery)
+- Scalable Backend Systems for AI products
 
-I’m open to collaborating on:
+---
 
-Open Source Projects 🌍
-Scalable Backend Systems ⚙️
-Innovative Web Applications 💡
-🔗 Skills & Technologies:
+## 🧠 What I Build
 
-Languages:
-Python | Java | JavaScript | TypeScript
+### 🤖 Agentic AI Systems
+- Multi-agent orchestration pipelines (planner → executor → critic)
+- Tool-using autonomous agents
+- Memory + context-aware agents
+- Long-running agent workflows
+- Human-in-the-loop AI systems
 
-Frontend:
-React | HTML | CSS 
+### ⚙️ LLM Orchestration
+- RAG pipelines with evaluation loops
+- LangGraph-based state machines
+- Prompt routing & dynamic tool selection
+- LLM chaining & workflow graphs
+- Observability for LLM outputs
 
-Backend:
-Node.js | Spring Boot
+### 🚀 Forward Deployed Engineering (FDE)
+- Custom AI solutions for real customer workflows
+- Rapid prototyping → production deployment cycles
+- API + system integration for enterprise use cases
+- Workflow automation across tools (CRM, docs, APIs)
+- On-site problem solving with AI systems
 
-Databases:
-MySQL | MongoDB
+---
 
-Tools & Platforms:
-Git | Docker | Kubernetes | AWS | Firebase
+## 🛠️ Core Stack
 
-AI Tools
-Antigravity | Cursor | HermesAgent | OpenClaw
+### 🤖 AI & Orchestration
+Python • LangChain • LangGraph • CrewAI • Smolagents • OpenClaw • LLM APIs
 
-Ai Frameworks 
-smoagents | LangChain | Langraph | Crew Ai 
+### 🧠 LLM Engineering
+RAG • Tool Calling • Agent Routing • Prompt Engineering • LLM Evaluation • Guardrails • LLMOps
 
-Prompting 
-chain of thought | Few Shot | LLMops
+### ⚙️ Backend Systems
+FastAPI • Node.js • Spring Boot • REST APIs • Microservices • Event-driven systems
 
+### 🌐 Frontend (for AI products)
+React • TypeScript • Next.js • Tailwind CSS
 
+### 🗄️ Data & Infra
+PostgreSQL • MongoDB • Redis • Vector DBs (FAISS, Pinecone) • AWS • Docker • Kubernetes
 
+### 🔄 Automation & Integration
+n8n • Zapier • Webhooks • API Orchestration
 
+---
+
+## 🚀 What I Focus On Right Now
+
+- Designing **agent orchestration architectures**
+- Building **multi-step AI workflows with reliability**
+- Creating **production-ready RAG systems**
+- Deploying **LLM-powered enterprise tools**
+- Improving **AI evaluation + observability pipelines**
+- Shipping **FDE-style AI solutions end-to-end**
+
+---
+
+## 🧩 Example Systems I Build
+
+- 🧠 Multi-Agent Research System (Planner → Researcher → Writer)
+- 🔍 Enterprise RAG Chat System with evaluation layer
+- ⚙️ AI Workflow Automation Engine (n8n + LLM orchestration)
+- 🤖 Tool-Using AI Assistant with memory + APIs
+- 📊 LLM Evaluation & Testing Framework
+
+---
+
+## 🎯 FDE Mindset
+
+I approach engineering from a **Forward Deployed perspective**:
+
+- Understand real user workflows first
+- Design AI systems around constraints, not demos
+- Ship quickly, iterate with feedback
+- Integrate deeply into existing systems
+- Focus on measurable business impact
+
+---
+
+## 📌 What I’m Building Toward
+
+- Production-grade AI agent platforms
+- Enterprise AI orchestration systems
+- Scalable LLM infrastructure
+- Autonomous workflow systems for businesses
+
+---
+
+## 🤝 Open To Collaborate On
+
+- AI Agent Platforms
+- Multi-Agent Orchestration Systems
+- LLM Infrastructure Tools
+- Enterprise AI Integrations
+- Open-source AI engineering projects
+
+---
+
+## 💡 Philosophy
+
+> “The real power of AI is not in the model — it’s in the orchestration of tools, context, and systems around it.”
+
+---
