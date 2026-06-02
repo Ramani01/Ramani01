@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramani
 
-## 🤖 AI Engineer | 🧠 Agent Orchestration Engineer | 🚀 Forward Deployed Engineer (FDE)
+## 🤖 AI Engineer| Security Engineer | 🧠 Agent Orchestration Engineer | 🚀 Forward Deployed Engineer (FDE)
 
 I build production-grade AI systems that go beyond APIs — focusing on **agent orchestration, LLM workflows, and real-world deployment of AI solutions**.
 
