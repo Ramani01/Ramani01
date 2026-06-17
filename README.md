@@ -156,7 +156,7 @@
 </picture>
 
 </div>
-
+  
 > ⚙️ This snake animates automatically once you add the GitHub Action workflow included in this package (see setup instructions below).
 
 <br/>
