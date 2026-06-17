@@ -161,6 +161,15 @@
 
 <br/>
 
+## 📡 recent_activity.log
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+> ⚙️ This section auto-updates every 6 hours via GitHub Actions — it pulls your latest commits, PRs, issues, and releases directly from the GitHub API. No manual edits needed once it's wired up (see setup instructions below).
+
+<br/>
+
 ## 🤝 open_to_collaborate.md
 
 - 🤖 AI Agent Platforms & Frameworks
