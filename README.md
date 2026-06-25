@@ -4,7 +4,7 @@
 
 # 🤖 AI Software Engineer
 
-### Building Intelligent AI Systems • Generative AI • AI Agents • Cybersecurity
+### Building Intelligent AI ML Systems • Generative AI • AI Agents • Cybersecurity
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,100:00BFFF&text=AI%20Software%20Engineer&fontAlign=50&fontAlignY=40&fontSize=45&desc=Generative%20AI%20%7C%20LLMs%20%7C%20AI%20Agents%20%7C%20Cybersecurity&descAlign=50&descAlignY=60"/>
 
