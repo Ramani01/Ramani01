@@ -162,11 +162,11 @@ A[User Query]
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Ramani01">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/mithinti-ramani-7180543ba/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
