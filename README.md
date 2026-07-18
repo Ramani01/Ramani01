@@ -4,7 +4,7 @@
 
 # 🤖 AI Software Engineer
 
-### Building Intelligent AI ML Systems • Generative AI • AI Agents • Cybersecurity
+### Building Intelligent AI ML Systems • Generative AI • AI Agents • AI Security Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,100:00BFFF&text=AI%20Software%20Engineer&fontAlign=50&fontAlignY=40&fontSize=45&desc=Generative%20AI%20%7C%20LLMs%20%7C%20AI%20Agents%20%7C%20Cybersecurity&descAlign=50&descAlignY=60"/>
 
@@ -126,26 +126,6 @@ A[User Query]
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
----
-
 ## 🏆 Certifications & Training
 
 - Cybersecurity Internship
@@ -153,6 +133,7 @@ A[User Query]
 - Full Stack Development Training
 - Generative AI Learning Programs
 - Cloud Computing Fundamentals
+- IBM  Professional Certification 
 
 ---
 
