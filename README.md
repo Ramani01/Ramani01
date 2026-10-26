@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 
-- 🎓 Integrated M.Tech CSE Student
-- 🤖 Passionate about Artificial Intelligence & Generative AI
-- 🔒 Cybersecurity Enthusiast
-- ☁️ Exploring Cloud Computing & MLOps
-- 🚀 Building AI Agents, RAG Applications & Automation Systems
-- 📚 Learning Advanced LLM Engineering
-- 💡 Interested in AI Security & Responsible AI
+-  Integrated M.Tech CSE Student
+-  Passionate about Artificial Intelligence & Generative AI
+-  Cybersecurity Enthusiast
+-  Exploring Cloud Computing & MLOps
+-  Building AI Agents, RAG Applications & Automation Systems
+-  Learning Advanced LLM Engineering
+-  Interested in AI Security & Responsible AI
 
 ---
 
